@@ -18,10 +18,7 @@ public class WriteFileBufferWriter {
 		bw.write("currently working");
 		bw.close();
 		
-		
-		//through bufferwriter appen in file asdfa
-	//jhk
-	
+		//through bufferwriter appen in file
 		
 		File appendfile=new File("../AutomationAssigment/Files/WriteTextFile.txt");
 		FileWriter appendfw=new FileWriter(appendfile,true);
