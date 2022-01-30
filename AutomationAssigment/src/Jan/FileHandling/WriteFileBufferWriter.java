@@ -20,7 +20,7 @@ public class WriteFileBufferWriter {
 		
 		
 		//through bufferwriter appen in file
-		//klklkmlmlmlmkasdfaasda
+		//klklkmlmlmlmkasdfaasdafaf
 	
 		
 		File appendfile=new File("../AutomationAssigment/Files/WriteTextFile.txt");
