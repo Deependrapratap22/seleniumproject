@@ -27,8 +27,8 @@ public class ReadXLSFile {
 	    	for (int j=0;j<col;j++)
 	    	{
 	    		Cell cellValue=sheet.getCell(j, i);
-	    		System.out.print(cellValue.getContents());
-	    		System.out.print("   ");
+	    		System.out.print("|"+cellValue.getContents()+"|");
+	    		
 	    	}
 	    	System.out.println("");
 	    }
